@@ -1,3 +1,7 @@
+PickerView For Address Selector
+==========
+增加地址选择器
+![](/preview/address_picker.png)
 PickerView (2.x系列)
 ==========
 
