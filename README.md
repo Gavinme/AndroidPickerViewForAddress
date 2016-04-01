@@ -1,6 +1,6 @@
 PickerView For Address Selector
 ==========
-增加地址选择器
+增加地址选择器,优化参数的传递
 ![](/preview/address_picker.png)
 PickerView (2.x系列)
 ==========
